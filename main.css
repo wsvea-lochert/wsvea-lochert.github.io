@@ -35,7 +35,7 @@ h1 {
     background-image: linear-gradient(to right top, #a600ff, #8443ff, #615cff, #3a6dff, #007aff);
     z-index: -1;
 
-    padding: 5px;
+    padding: 0px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
