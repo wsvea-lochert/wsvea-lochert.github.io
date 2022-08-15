@@ -70,7 +70,7 @@
            "name": "Master thesis: Maneuver Autonomous Vehicles with Arm Gestures via a Smartphone",
            "employer": "Forsvarets forskningsinstitutt (FFI)",
            "authors": ["William Svea-Lochert"],
-           "description": "Masteroppgaven min baserte seg på å utvikle en smarttelefon applikasjon for manuvrering av autonome kjøretøy med armsignaler. Sentrale teknologier som ble brukt var bl.a TensorFlow, Keras, egenutviklede labeling verktøy laget i Python og React, TensorFlow Lite og Android. Dette prosjektet bygde videre på bacheloroppgaven min.",
+           "description": "Masteroppgaven min baserte seg på å utvikle en smarttelefon applikasjon for manuvrering av autonome kjøretøy med armsignaler. Sentrale teknologier som ble brukt var bl.a TensorFlow, Keras, egenutviklede labeling verktøy laget i Python og React, TensorFlow Lite og Android. Dette prosjektet bygde videre på bacheloroppgaven min",
            "link": "https://wsvea-lochert.github.io/Maneuver%20autonomous%20vehicles%20with%20arm%20gestures%20via%20a%20smartphone%20william%20svea-lochert.pdf"
 
        },
@@ -78,7 +78,7 @@
            "name": "Bachelor thesis: Maneuver Autonomous Vehicles with Arm Gestures",
            "employer": "Forsvarets forskningsinstitutt (FFI)",
            "authors": ["Ralf S. Sjøvold Leistad", "Sander Lade Hellesø", "Sverre Stafsengen Broen", "William Svea-Lochert"],
-           "description": "Bacheloroppgaven min baserte seg på å utvikle et proof of concept for å se om det var mulig å manuvrere autonome kjøretøy med armsignaler. Sentrale teknologier som ble brukt var bl.a TensorFlow, Keras, PlaidML for trening av maskinlære modeller, en TurtleBot3 for prototyping og testing. Prosjektet ga gode resultater og ble tatt videre til master for videreutvikling.",
+           "description": "Bacheloroppgaven min baserte seg på å utvikle et proof of concept for å se om det var mulig å manuvrere autonome kjøretøy med armsignaler. Sentrale teknologier som ble brukt var bl.a TensorFlow, Keras, PlaidML for trening av maskinlære modeller, en TurtleBot3 for prototyping og testing. Prosjektet ga gode resultater og ble tatt videre til master for videreutvikling",
            "link": "https://wsvea-lochert.github.io/BO20-G38.pdf"
        },
        "project3": {
