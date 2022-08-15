@@ -1,11 +1,11 @@
 {
    "name": "William Svea-Lochert",
-   "age": "1997-12-11",
+   "age": "11-12-1997",
    "education": {
        "master": {
            "school": "Høgskolen i Østfold",
            "field": "Applied Computer Science",
-           "graduation": "2022-5-26",
+           "graduation": "26-05-2022",
            "grades": {
                "Interaction Design": "A",
                "Scientific Method and Theory": "A",
@@ -17,7 +17,7 @@
        "usa": {
            "school": "California state university, Monterey bay",
            "field": "Computer Science",
-           "graduation": "2019-12-20",
+           "graduation": "20-12-2019",
            "grades": {
                "Intro to Data Structures": "B",
                "Software Design": "B",
@@ -28,7 +28,7 @@
        "bachelor": {
            "school": "Høgskolen i Østfold",
            "field": "informatikk - design og utvikling av IT-systemer",
-           "graduation": "2020-5-28",
+           "graduation": "28-05-2020",
            "grades": {
                "Introduction to Programming": "D",
                "Web Technology": "C",
@@ -50,15 +50,15 @@
        "job1": {
            "company": "Drøbakveien Jord og Gjenvinning",
            "position": "Sommerjobb",
-           "start": "2010-5-1",
-           "end": "2020-7-10",
+           "start": "01-05-2010",
+           "end": "10-07-2020",
            "description": "Hos Drøbakveien Jord og Gjenvinning har jeg jobbet med alt fra å male, produksjon, ledelse og salg"
        },
        "job2": {
            "company": "Triangula AS",
            "position": "Ekstrahjelp",
-           "start": "2020-1- 1",
-           "end": "2022-3-20",
+           "start": "01-01-2020",
+           "end": "20-03-2022",
            "description": "Hos Triangula har jeg for det meste jobbet med data labeling av lydfiler av skudd, samt vært ekstrahjelp på skyteøvelse med heimeværnet i forbindelse Cold Response i 2022"
        }
    },
