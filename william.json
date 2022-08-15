@@ -1,0 +1,98 @@
+ {
+    "name": "William Svea-Lochert",
+    "age": "1997-12-11",
+    "education": {
+        "master": {
+            "school": "Høgskolen i Østfold",
+            "field": "Applied Computer Science",
+            "graduation": "2022-5-26",
+            "grades": {
+                "Interaction Design": "A",
+                "Scientific Method and Theory": "A",
+                "Machine Learning": "A",
+                "Modelling Cyber-Physical Systems": "B",
+                "Master thesis": "A"
+            }
+        },
+        "usa": {
+            "school": "California state university, Monterey bay",
+            "field": "Computer Science",
+            "graduation": "2019-12-20",
+            "grades": {
+                "Intro to Data Structures": "B",
+                "Software Design": "B",
+                "Web Scripting": "A-",
+                "Discrete Mathematics": "D"
+            }
+        },
+        "bachelor": {
+            "school": "Høgskolen i Østfold",
+            "field": "informatikk - design og utvikling av IT-systemer",
+            "graduation": "2020-5-28",
+            "grades": {
+                "Introduction to Programming": "D",
+                "Web Technology": "C",
+                "Databases": "E",
+                "Object-oriented Programming": "C",
+                "Introduction to Information Security": "D",
+                "Algorithms and Datastructures": "E",
+                "Software Engineering and Testing": "C",
+                "Computer Graphics": "D",
+                "Introduction to Operating Systems": "C",
+                "Big Data - Storage and Processing": "C",
+                ".NET": "D",
+                "Frameworks": "C",
+                "Bachelor thesis": "A"
+            }
+        }
+    },
+    "job_experience": {
+        "job1": {
+            "company": "Drøbakveien Jord og Gjenvinning",
+            "position": "Sommerjobb",
+            "start": "2010-5-1",
+            "end": "2020-7-10",
+            "description": "Hos Drøbakveien Jord og Gjenvinning har jeg jobbet med alt fra å male, produksjon, ledelse og salg"
+        },
+        "job2": {
+            "company": "Triangula AS",
+            "position": "Ekstrahjelp",
+            "start": "2020-1- 1",
+            "end": "2022-3-20",
+            "description": "Hos Triangula har jeg for det meste jobbet med data labeling av lydfiler av skudd, samt vært ekstrahjelp på skyteøvelse med heimeværnet i forbindelse Cold Response i 2022"
+        }
+    },
+    "motivation": "Jeg har alltid vært interessert i datamaskiner fra ung alder, samt å lage ting. Gjennom oppveksten har jeg brukt mange timer med dataspill og senere år fant jeg interessen for"
+                  "programmering, med spesielt fokus på maskinlære, samt å bygge de verktøyene en trenger for å produsere data, bygge modeller og bruke modellene. Jeg trives godt i en kreativt miljø"
+                  "hvor jeg kan jobbe sammen med andre og lære av det.",
+    "hobby": ["Gaming", "Scuba", "Snowboard", "Golf", "Båt"],
+    "programming_languages": ["Python", "C++", "C#", "Java", "JavaScript", "Swift", "Kotlin", "PHP", "SQL"],
+    "projects": {
+        "project1": {
+            "name": "Master thesis: Maneuver Autonomous Vehicles with Arm Gestures via a Smartphone",
+            "employer": "Forsvarets forskningsinstitutt (FFI)",
+            "authors": ["William Svea-Lochert"],
+            "description": "Masteroppgaven min baserte seg på å utvikle en smarttelefon applikasjon for manuvrering av autonome kjøretøy med armsignaler. Sentrale teknologier som ble brukt var bl.a"
+                           "TensorFlow, Keras, egenutviklede labeling verktøy laget i Python og React, TensorFlow Lite og Android. Dette prosjektet bygde videre på bacheloroppgaven min.",
+            "link": "https://wsvea-lochert.github.io/Maneuver%20autonomous%20vehicles%20with%20arm%20gestures%20via%20a%20smartphone%20william%20svea-lochert.pdf"
+
+        },
+        "project2": {
+            "name": "Bachelor thesis: Maneuver Autonomous Vehicles with Arm Gestures",
+            "employer": "Forsvarets forskningsinstitutt (FFI)",
+            "authors": ["Ralf S. Sjøvold Leistad", "Sander Lade Hellesø", "Sverre Stafsengen Broen", "William Svea-Lochert"],
+            "description": "Bacheloroppgaven min baserte seg på å utvikle et proof of concept for å se om det var mulig å manuvrere autonome kjøretøy med armsignaler. Sentrale teknologier som ble brukt var bl.a"
+                           "TensorFlow, Keras, PlaidML for trening av maskinlære modeller, en TurtleBot3 for prototyping og testing. Prosjektet ga gode resultater og ble tatt videre til master for videreutvikling.",
+            "link": "https://wsvea-lochert.github.io/BO20-G38.pdf"
+        },
+        "project3": {
+            "name": "Smart Meeting Room Monitoring System with Sanitizing Alerts",
+            "employer": "Høgskolen i Østfold",
+            "authors": ["Haroon Mohammad Sarwar", "Muhammad Umar", "William Svea-Lochert"],
+            "description": "Dette prosjektet ble gjennomført igjennom faget Interaction Design. Prosjektet gikk ut på å finne en måte for booking av møterom i pandemi tiden og samtidig få folk til å "
+                           "føle seg trygge i rommet. Resultatet av prosjektet endte med å bli publisert under International Conference on Human Interaction and Emerging Technologies",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-030-74009-2_48"
+        }
+    },
+    "website": "https://wsvea-lochert.github.io/"
+}
