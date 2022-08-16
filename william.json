@@ -63,7 +63,7 @@
        }
    },
    "motivation": "Jeg har alltid vært interessert i datamaskiner fra ung alder, samt å lage ting. Gjennom oppveksten har jeg brukt mange timer med dataspill og senere år fant jeg interessen for programmering, med spesielt fokus på maskinlære. Jeg fant også glede av å bygge de verktøyene en trenger for å produsere data, bygge modeller og bruke modellene. Jeg trives godt i en kreativt miljø hvor jeg kan jobbe sammen med andre og lære av det",
-   "hobby": ["Gaming", "Scuba", "Snowboard", "Golf", "Båt"],
+   "hobby": ["Gaming", "Scuba", "Snowboard", "Golf", "Båt", "Tastatur bygging"],
    "programming_languages": ["Python", "C++", "C#", "Java", "JavaScript", "Swift", "Kotlin", "PHP", "SQL"],
    "projects": {
        "project1": {
